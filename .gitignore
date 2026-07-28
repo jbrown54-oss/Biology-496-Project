@@ -1,0 +1,17 @@
+# --- R / RStudio session junk ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+
+# --- renv: keep renv.lock + settings, ignore the private library ---
+# (renv/.gitignore already excludes library/, staging/, etc.)
+
+# --- generated figures (regenerate by sourcing figures.R) ---
+output/*.png
+output/*.pdf
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
