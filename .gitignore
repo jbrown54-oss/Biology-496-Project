@@ -8,9 +8,13 @@ Rplots.pdf
 # --- renv: keep renv.lock + settings, ignore the private library ---
 # (renv/.gitignore already excludes library/, staging/, etc.)
 
-# --- generated figures (regenerate by sourcing figures.R) ---
+# --- generated figures (re-run the notebooks to rebuild them) ---
+# the notebooks carry their own embedded copies, so these render on GitHub anyway
 output/*.png
 output/*.pdf
+
+# --- jupyter ---
+.ipynb_checkpoints/
 
 # --- OS clutter ---
 .DS_Store

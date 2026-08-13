@@ -1,0 +1,5 @@
+zone,stage,count,image,field_mm2,density_per_mm2
+throat,immature,145,ithf50x,4.9152,29.500325520833336
+throat,mature,89,mthf50x,4.9152,18.107096354166668
+stomach,immature,75,istf50x,4.9152,15.258789062500002
+stomach,mature,40,msf50x,4.9152,8.138020833333334

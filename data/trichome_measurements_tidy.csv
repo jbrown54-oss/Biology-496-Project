@@ -1,0 +1,18 @@
+Stage,Tissue,Face,Trichome,TrichomeID,Branch,Perimeter,Length,Note
+mature,throat,outside,circle,mthf circle trichome,,226.193,,
+mature,stomach,outside,branched,mstf trichome 3,,,104.974,
+mature,stomach,outside,branched,mstf_trichome_2_branches,1,,45.557,
+mature,stomach,outside,branched,mstf_trichome_2_branches,2,,45.382,
+mature,stomach,outside,branched,mstf_trichome_2_branches,3,,32.345,
+mature,stomach,outside,branched,mstf_trichome_2_branches,4,,47.078,
+mature,stomach,outside,branched,mstf_trichome_2_branches,5,,78.481,
+mature,stomach,outside,branched,mstf_trichome_1_branches,1,,42.228,
+mature,stomach,outside,branched,mstf_trichome_1_branches,2,,19.747,
+mature,stomach,outside,branched,mstf_trichome_1_branches,3,,13.731,
+immature,stomach,outside,branched,istf_trichome1,,,344.062,"Measured at 350x, not 800x. A long UNBRANCHED hair - a different morphotype. Never compare against the mature branch lengths."
+immature,stomach,,circle,ist_circle_trichome,,222.921,,Face not recorded in the original label - confirm outside vs inside.
+immature,throat,outside,circle,ithf_circle_trichome_2,,165.78,,
+immature,throat,outside,branched,ithf_trichome,1,,88.382,
+immature,throat,outside,branched,ithf_trichome,2,,18.655,
+immature,throat,outside,branched,ithf_trichome,3,,30.463,
+immature,throat,outside,branched,ithf_trichome,4,,35.009,
